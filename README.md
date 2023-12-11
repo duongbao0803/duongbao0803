@@ -1,4 +1,4 @@
 - 👋 Hi there, I'm Bao - a newbie of the IT field. 
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m interested in NextJS.
 - 😄 Hobbies: Code, Sports, Sleep.
 - 📫 How to reach me: tonbao0803@gmail.com
