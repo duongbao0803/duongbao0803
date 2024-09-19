@@ -2,4 +2,4 @@
 - 🌱 I’m interested in Next.js.
 - 😄 Hobbies: Coding, Sports, Sleep.
 - 📫 How to reach me: [tonbao0803@gmail.com](mailto:tonbao0803@gmail.com)
-- :pushpin: Portfolio: [My Portfolio](https://duongtonbao.vercel.app/)
+- :pushpin: Portfolio: <a href="https://duongtonbao.vercel.app/" target="_blank">My Portfolio</a>
