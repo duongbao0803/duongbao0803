@@ -1,4 +1,4 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=your_username&color=blue)
+![GitHub Views](https://komarev.com/ghpvc/?username=duongbao0803&color=blue)
 - 👋 Hi there, I'm Bao - a newbie in the IT field.
 - 🌱 I’m interested in NestJS.
 - 😄 Hobbies: Coding, Sports, Sleep.
